@@ -1,2 +1,1 @@
-# demo_ml_tooling
-Demo for ML Tooling 
+# Demo ML Tooling
